@@ -180,9 +180,9 @@ button.nextButton {
   text-align: center;
 }
 
-.questionAnswerForm form fieldset {
+/* .questionAnswerForm form fieldset {
   display: flex;
-}
+} */
 
 .correctFeedback {
     background: url("https://metrouk2.files.wordpress.com/2017/06/gif4.gif?w=748&h=396&crop=1");
